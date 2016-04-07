@@ -85,13 +85,6 @@ theme = "hugo-createive-theme"
         category = "Category"
         buttonText = "Close"
 
-    # Aside section
-	[params.aside]
-		headline = "Get the Creative Theme for Hugo"
-		[params.aside.button]
-			text = "Download now"
-			link = "//github.com/digitalcraftsman/hugo-creative-theme"
-
 	# Contact section
 	[params.contact]
 		headline = "Let's Get In Touch!"
