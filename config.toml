@@ -1,7 +1,8 @@
-baseurl = "http://replace-this-with-your-hugo-site.com/"
+baseurl = "http://developerHari.github.io/"
 languageCode = "en-us"
 title = "FARAD"
 theme = "hugo-createive-theme"
+#canonifyurls: true
 
 [params]
 
@@ -87,7 +88,6 @@ theme = "hugo-createive-theme"
     # Aside section
 	[params.aside]
 		headline = "Get the Creative Theme for Hugo"
-
 		[params.aside.button]
 			text = "Download now"
 			link = "//github.com/digitalcraftsman/hugo-creative-theme"
@@ -96,5 +96,5 @@ theme = "hugo-createive-theme"
 	[params.contact]
 		headline = "Let's Get In Touch!"
 		description = "Ready to start your next project with us? That's great! Give us a call or send us an email and we will get back to you as soon as possible!"
-		phone = "123-456-6789"
-		email = "feedback@startbootstrap.com"
+		phone = "+91 8903473973"
+		email = "contactus@farad.in"
