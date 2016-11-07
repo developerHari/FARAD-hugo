@@ -32,7 +32,7 @@ theme = "hugo-createive-theme"
 		brand = "FARAD"
 
 		[params.navigation.links]
-			about     = "About"
+			about     = "Aboutt"
 			services  = "Services"
 			portfolio = "Portfolio"
 			contact   = "Contact"
